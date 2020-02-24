@@ -1,0 +1,1 @@
+When we create object literal, internally the JavaScript engine uses the Object constructor function.
